@@ -7,7 +7,6 @@ Author : Cedric Kervadec
 
 
 
-
 /*----------------------------------------------
 Variables declaration and definition
 -----------------------------------------------*/
